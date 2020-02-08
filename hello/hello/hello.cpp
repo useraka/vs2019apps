@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    int i{ 1 };
+    std::cout << i << std::endl;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
